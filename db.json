@@ -1,0 +1,23 @@
+{
+  "productList": [
+    {
+      "productName": "as",
+      "category": "Vegetables",
+      "freshness": "Second Hand",
+      "price": 122,
+      "comment": "asdasd",
+      "date": "2022-04-09T18:30:00.000Z",
+      "id": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
